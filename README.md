@@ -10,4 +10,4 @@ As an executive at UBC Rocket, the main goal was to find a common voice with the
 
 A common difficult task as of late is finding people, and keeping track. I've seen many implementations of what I'm seeking in the past, and online. However, my goal is to create something I can enjoy using, and that has a decent user experience.
 
-I think it's worth building something meaningful with good design.
+I think it's worth building something meaningful with good design. And I want to try building it myself. So I can learn.
