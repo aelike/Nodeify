@@ -11,3 +11,22 @@ As an executive at UBC Rocket, the main goal was to find a common voice with the
 A common difficult task as of late is finding people, and keeping track. I've seen many implementations of what I'm seeking in the past, and online. However, my goal is to create something I can enjoy using, and that has a decent user experience.
 
 I think it's worth building something meaningful with good design. And I want to try building it myself. So I can learn.
+I just need it to work, at the end of the day.
+
+# Framework / Tech Stack
+
+## Frontend
+Next.js, React
+
+## Backend
+PostreSQL (via Supabase)
+
+## Data
+Apollo
+Pitchbook
+Crunchbase, possibly
+
+## Deployment
+Vercel
+
+For now, full-stack using next.js, with supabase and postgres. I hope to link this workflow to some external apis such as crunchbase or apollo.io. Maybe I'll do some code in Rust somewhere, for good memory management.
